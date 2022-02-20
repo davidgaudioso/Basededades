@@ -65,6 +65,7 @@
 ### Ara que tenim la xarxa instal•lada començarem a fer la instal•lació del MongoDB:
 ### Primer fem un update i upgrade:
 ![image](https://user-images.githubusercontent.com/99834779/154859331-c978eb9b-c9d2-4f03-a146-f8f9719685ec.png)
+
 ![image](https://user-images.githubusercontent.com/99834779/154859329-433148bd-30e2-467d-87c4-345bfcf3b821.png)
 ### Després de haber comfigurat la xarxa i actualitzar el Centos 7 començarem l’instal•lacio, primer crearem un arxiu de repositori:
 ![image](https://user-images.githubusercontent.com/99834779/154859325-0e84ddf7-63db-4961-b163-7dac2211a346.png)
