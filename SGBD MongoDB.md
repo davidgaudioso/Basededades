@@ -59,9 +59,9 @@
 ### Després posem aquesta comanda per reiniciar el servei d’ internet:
 ![image](https://user-images.githubusercontent.com/99834779/154859387-409ffb62-18bb-4b36-a6fb-ac9e0d1c448e.png)
 ### Després mirem el seu estat:
-![image](https://user-images.githubusercontent.com/99834779/154859381-47448b8d-c0b0-45bc-bb1c-5736d9984e64.png)
+![image](https://user-images.githubusercontent.com/99834779/154863285-f0496fce-e998-42a8-bbee-50dfb5fc17f6.png)
 ### Ara mirem les connexions com han quedat:
-![image](https://user-images.githubusercontent.com/99834779/154859376-06841120-943b-4ac1-93ba-9858f4466789.png)
+![image](https://user-images.githubusercontent.com/99834779/154863287-b4938d9b-4c7b-48b2-b3f0-1adff1548bf4.png)
 ### Ara que tenim la xarxa instal•lada començarem a fer la instal•lació del MongoDB:
 ### Primer fem un update i upgrade:
 ![image](https://user-images.githubusercontent.com/99834779/154859331-c978eb9b-c9d2-4f03-a146-f8f9719685ec.png)
