@@ -55,7 +55,7 @@
 ![image](https://user-images.githubusercontent.com/99834779/154858989-b9dfca6a-f865-46d7-a44d-2872ac2894d0.png)
 ### Ara mirem les connexions com han quedat:
 ![image](https://user-images.githubusercontent.com/99834779/154858982-5e9ab16e-9fd8-4526-a737-19d01a9815d0.png)
-### Ara que tenim la xarxa instal•lada començarem a fer l’ instal•lació del MySQL:
+### Ara que tenim la xarxa instal•lada començarem a fer l’ instal•lació del SGBD MySQL:
 ### Primer fem un update i upgrade:
 ![image](https://user-images.githubusercontent.com/99834779/154858970-595739a8-31ca-4175-8e03-ee0d7a7d9fc4.png)
 ![image](https://user-images.githubusercontent.com/99834779/154858964-aa926ef6-e236-409b-8d92-5235845a08ba.png) 
