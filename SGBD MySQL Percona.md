@@ -39,7 +39,7 @@
 
 
 ### Per instal•lar el SGBD he instal•lat el centos 7 i ens demanarà una contrasenya per l’ usuari root:
-![image](https://user-images.githubusercontent.com/99834779/154843717-8fa11e55-9a2c-4b49-afc6-9352def2c15f.png)
+![image](https://user-images.githubusercontent.com/99834779/154862677-96318a85-6099-4955-9109-40e353f1fe4c.png)
 ### Després quant estigui instal•lat el centos 7 configurem les targetes de xarxa:
 ### Primer configurem els dos fitxers de xarxa, per entrar al fitxer de xarxaa enp0s3:
 ![image](https://user-images.githubusercontent.com/99834779/154843709-092cdded-dc6e-4148-89d9-01738f02126f.png)
