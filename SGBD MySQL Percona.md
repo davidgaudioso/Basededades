@@ -59,6 +59,7 @@
 ![image](https://user-images.githubusercontent.com/99834779/154843649-fcb7512b-628f-47e6-831d-d731fa9b9e3a.png)
 ### Ara posem l’ update i upgrade  i és amb aquesta comanda:
 ![image](https://user-images.githubusercontent.com/99834779/154843647-76c4437d-cc38-4ddd-a43f-c8510c1d5f21.png)
+
 ![image](https://user-images.githubusercontent.com/99834779/154843640-9f2dfcc7-a467-4493-b2a2-d53456010e27.png)
 ### Ara instal•lem el repositori de percona:
 ![image](https://user-images.githubusercontent.com/99834779/154843635-338b8d2d-240a-455d-b2ac-822e89c04ec1.png)
