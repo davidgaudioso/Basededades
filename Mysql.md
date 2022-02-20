@@ -1,5 +1,6 @@
 ### Part II - INSTAL•LACIÓ SGBD MySQL 8.0 (màx. 2 punt) 
-  
+![image](https://user-images.githubusercontent.com/99834779/154859057-1833be34-0ed0-44c9-9024-029593563ec0.png)
+
  
 ### ENUNCIAT  
  
