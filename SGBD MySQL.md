@@ -58,6 +58,7 @@
 ### Ara que tenim la xarxa instal•lada començarem a fer l’ instal•lació del SGBD MySQL:
 ### Primer fem un update i upgrade:
 ![image](https://user-images.githubusercontent.com/99834779/154858970-595739a8-31ca-4175-8e03-ee0d7a7d9fc4.png)
+
 ![image](https://user-images.githubusercontent.com/99834779/154858964-aa926ef6-e236-409b-8d92-5235845a08ba.png) 
 ### Després descarreguem el repositori de MySQL i el descarreguem dintre del directori /tmp:
 ![image](https://user-images.githubusercontent.com/99834779/154858961-111460e7-c056-4854-b8ea-e0f23f6772f0.png)
