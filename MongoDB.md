@@ -91,7 +91,7 @@
 ### I per comprovar que està bé creat entrarem a mongo amb ell:
 ![image](https://user-images.githubusercontent.com/99834779/154859242-04300ef3-73e7-4d5d-87d5-c08cfd05e5fd.png)
 
-### Ara per poder conectarnos remotament a mongo configurarem el firewall i es d’aquesta manera:
+### Ara per poder conectarnos remotament a MongoDB configurarem el firewall i es d’aquesta manera:
 ![image](https://user-images.githubusercontent.com/99834779/154859233-989eed19-a1a7-4edf-bea3-78a3c0daa5a4.png)
 ### I també reiniciarem el servei:
 ![image](https://user-images.githubusercontent.com/99834779/154859222-6a85c100-3f4c-4db8-940e-6796af1c8e67.png)
