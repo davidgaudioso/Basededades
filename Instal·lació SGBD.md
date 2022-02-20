@@ -1,4 +1,42 @@
-# Instal·lació del SGBD
+### Pràctica 1: Instal•lació d'un SGBD 
+ 
+### Part I - INSTAL•LACIÓ SGBD MySQL Percona (màx. 6 punts) 
+ 
+### ENUNCIAT  
+ 
+### Partint d'una màquina CentOS 7 minimal proporcionada pel professor realitza la instal•lació d'un SGBD Percona Server mitjançant el gestor de paquets YUM. 
+ 
+### ENLLAÇOS 
+ 
+### Percona Server 8.0 Doc  
+ ### https://www.percona.com/doc/percona-server/8.0/index.html 	 
+ 
+### Instal•lació Percona Server8.0 via YUM Repository   	https://www.percona.com/doc/percona-server/8.0/installation/yum_repo.html 
+ 
+### Instal•lació MySQL via YUM Repository  	https://www.tecmint.com/install-latest-mysql-on-rhel-centos-and-fedora/ 
+ 
+### LLIURAMENT 
+ 
+### El lliurament d'aquesta activitat correspon a la documentació de tots els passos corresponents a la instal•lació per tenir un SGBD MySQL Percona en funcionament. 
+### En la documentació cal incloure les captures d'imatges que es cregui convenients així com la webgrafia utilitzada. 
+ 
+### Altres opcions de lliurament: 
+### •	Utilitzar aquest document com a plantilla pel lliurament de l’activitat i penjar-la en tasca destinada a aquesta activitat dins del curs Moodle  
+### •	Realitzar la documentació sobre un repositori GIT (Bitbucket o GitLab). Utilitzant el format de fitxer MarkDown (MD). (1 punt) 
+### •	Dins d'una Wiki. (1 punt) 
+ 
+### Per les dues últimes opcions d'entrega caldrà indicar en el document penjat en el Moodle la URL a on es troba la documentació i afegir el compte del professor com a membre de l'equip de treball. 
+ 
+### REALITZA LA DOCUMENTACIÓ NECESSÀRIA PER LA INSTAL•LACIÓ PAS A PAS. 
+ 
+### •	Indica clarament els passos per reproduir la instal•lació en un altra màquina. 
+ 
+### •	Si realitzes algun canvi en la configuració del firewall, o altres elements de seguretat per poder tenir accés indica quins canvis has hagut de fer. 
+ 
+### •	Cal tenir en compte que la documentació va dirigida a tècnics informàtics i no a usuaris no experts. 
+ 
+### •	Es valorarà la presentació, l'organització del text i la facilitat de lectura. 
+
 
 ### Per instal•lar el SGBD he instal•lat el centos 7 i ens demanarà una contrasenya per l’ usuari root:
 ![image](https://user-images.githubusercontent.com/99834779/154843717-8fa11e55-9a2c-4b49-afc6-9352def2c15f.png)
