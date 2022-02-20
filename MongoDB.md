@@ -71,13 +71,13 @@
 
 ### I té aquest contingut:
 ![image](https://user-images.githubusercontent.com/99834779/154859316-46aac94c-538c-4539-b92d-6d05710a782b.png)
-### Després instal•larem el mongodb amb la comanda següent:
+### Després instal•larem el MongoDB amb la comanda següent:
 ![image](https://user-images.githubusercontent.com/99834779/154859306-bc863c82-2ea2-48c0-9019-e9e6036bc0f2.png)
-### Ara iniciarem el servei de mongodb:
+### Ara iniciarem el servei de MongoDB:
 ![image](https://user-images.githubusercontent.com/99834779/154859299-79908744-ae4b-45d0-b74b-cf7ed484508d.png)
 ### Per acabar l’instal•lació mirarem el seu estat:
 ![image](https://user-images.githubusercontent.com/99834779/154859292-0af71ad8-585c-47c4-993c-8740f041f493.png)
-### Per últim  mirarem si ens podem connectar a mongodb:
+### Per últim  mirarem si ens podem connectar a MongoDB:
 ![image](https://user-images.githubusercontent.com/99834779/154859280-ac7817ed-6ed0-41e4-aab0-982f3672efe8.png)
 ### Ara haurem de fer la seva configuració i anirem a modifcar l’arxiu amb aquest nom:
 ![image](https://user-images.githubusercontent.com/99834779/154859268-4662869e-b87f-4213-9b98-3cfa0a1728ce.png)
@@ -98,5 +98,5 @@
 ### Després en el meu cas per conectarem remotament he utilitzat l’aplicacio “Robo 3T” i he creat una connexió nova amb aquesta configuració:
 ![image](https://user-images.githubusercontent.com/99834779/154859205-3fe6fa51-51e2-4043-b765-d18e0fa1c86d.png)![image](https://user-images.githubusercontent.com/99834779/154859208-569d4a91-c053-4f77-b4bb-91dd25ff9c7e.png)
 
-### I li donarem després a conectar i ja estarem connectacts remotamnet  a mongodb:
+### I li donarem després a conectar i ja estarem connectacts remotamnet  a MongoDB:
 ![image](https://user-images.githubusercontent.com/99834779/154859197-724e5871-2955-4d63-83e6-bbd168cce8ec.png)
