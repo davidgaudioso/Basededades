@@ -49,12 +49,12 @@
 ### Després configurem els dos fitxers de xarxa, per entrar al fitxer de xarxaa enp0s3:
 ![image](https://user-images.githubusercontent.com/99834779/154859417-a3525fad-7062-4884-85f1-e7dcd737d814.png)
 ### Dintre ha d’ estar així, per modifcar les coses de dintre és donant a la tecla “i”:
-![image](https://user-images.githubusercontent.com/99834779/154859404-7e4b1de1-709f-4530-82b0-66eb38e76da0.png)
+![image](https://user-images.githubusercontent.com/99834779/154862991-120fe2b9-9c82-4359-b399-66231ffc39c2.png)
 ### Per sortir és donant a la tecla “esc” i després per guardar i sortir és “:wq”
 ### Després fem el mateix en l’ altre targeta de xarxa:
 ![image](https://user-images.githubusercontent.com/99834779/154859396-3cc016fa-301c-4016-ac65-f8ce86b1f851.png)
 ### Dintre ha d’ estar així, per modifcar les coses de dintre és donant a la tecla “i”:
-![image](https://user-images.githubusercontent.com/99834779/154859390-410eb3a8-3e82-492f-bc23-fc89f80896fa.png) 
+![image](https://user-images.githubusercontent.com/99834779/154863012-d2e15b5e-ef5d-4ae0-8edb-7d0eac7007f9.png)
 ### Per sortir és donant a la tecla “esc” i després guardar i sortir és “:wq”
 ### Després posem aquesta comanda per reiniciar el servei d’ internet:
 ![image](https://user-images.githubusercontent.com/99834779/154859387-409ffb62-18bb-4b36-a6fb-ac9e0d1c448e.png)
