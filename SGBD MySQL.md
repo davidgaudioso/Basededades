@@ -104,7 +104,7 @@
 ### Les característiques prinicipals que he vist son que amb la versió de MySQL 8.0 el rendiment augmenta com per exemple en la carrega de lectura o escriptura, un altre cosa que també ha millorat es la funció de emmagatzematge de NoSQL, també a partir de la versio 8.0 s'ha afegit un nou concepte anomenat funció de finestra, que es pot fer servir per implementar diversos mètodes de consulta nous. També proporciona suport per ordenar índexs en ordre descendent.
 ### 6.	Ensenya al professor que us podeu connectar al SGBD. 
 ### Per poder conectar al SGBD he creat un usuari i es crearía d’aquesta manera:
-![image](https://user-images.githubusercontent.com/99834779/154858812-a861b1ce-9a36-47ca-b4a7-7acd069123f4.png)
+![image](https://user-images.githubusercontent.com/99834779/154862918-90265e7c-e3ed-4aea-92ac-002e79b49886.png)
 ![image](https://user-images.githubusercontent.com/99834779/154858806-ba21eee3-6fb9-4ad4-9a94-bbe5f4b1e829.png) 
 ### I també he d’activar el port 3306 i és amb aquesta  comanda:
 ![image](https://user-images.githubusercontent.com/99834779/154858799-f2dbf478-62df-4640-816f-b76d2cd156f7.png)
